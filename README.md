@@ -12,4 +12,4 @@
 
    <img width="1248" height="382" alt="CleanShot 2025-07-23 at 18 20 24@2x" src="https://github.com/user-attachments/assets/28131962-f31d-4148-acdc-1cc9711d3176" />
 
-    If there is no tsconfig.json file. That should not be required since we are sending in our own config file via the -p parameter.
+    If there is no tsconfig.json file. That should not be required since we are sending in our own config file via the -p parameter. Is glint still using tsconfig even though -p is provided? Is that the problem?
