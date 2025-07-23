@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true
+  },
+  "include": ["*"],
+  "glint": {
+    "environment": ["ember-loose", "ember-template-imports"],
+    "checkStandaloneTemplates": false
+  },
+  "files": ["file-with-error.ts"]
+}

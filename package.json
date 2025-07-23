@@ -1,0 +1,11 @@
+{
+  "name": "reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@glint/core": "^1.5.2",
+    "@glint/environment-ember-loose": "^1.5.2",
+    "@glint/environment-ember-template-imports": "^1.5.2",
+    "typescript": "^5.8.3"
+  }
+}
