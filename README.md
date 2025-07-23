@@ -1,4 +1,4 @@
-1. Install dependencies with ´pnpm install`
+1. Install dependencies with `pnpm install`
 2. Run the type checking on one file using `tsc`: `pnpm tsc -p tmp-tsconfig-for-git-hook.json`. You should get something like this:
    
    <img width="1268" height="268" alt="CleanShot 2025-07-23 at 18 16 19@2x" src="https://github.com/user-attachments/assets/12b5e7b4-0a57-4a18-a1db-25441895c25f" />
